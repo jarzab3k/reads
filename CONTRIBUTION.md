@@ -1,0 +1,4 @@
+I am happy to hear any of comments/suggestion and so on to my lists, but remember that the main three files (books.md, artciles.md, videos.md) are thought mainly as my record list, so it is readonly. But I'm happy if you want to contribute to the other sections like (toread.md, quotes.md or summary dictionary).
+
+If you want to contribute to this repository just make a pull-request and make me a reviewer, details can we discuss during review.
+So if you think that I should have something on my read list, tell me. If you want argue with my qoutes, tell me. If you don't agree with my summaries of books, tell me ;-)
