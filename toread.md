@@ -10,3 +10,7 @@
 1. https://www.amazon.com/Pattern-Oriented-Software-Architecture-Concurrent-Networked/dp/0471606952 Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects,  Douglas Schmidt
 1. http://www.usingcsp.com/ Communicating Sequential Processes (CSP), Tony Hoare
 1. https://www.amazon.com/Order-Out-Chaos-Ilya-Prigogine/dp/0553343637, Order Out of Chaos, Ilya Prigogine, Isabelle Stengers
+1. https://charleslambdin.wordpress.com/2020/02/18/red-and-blue-work-agile-as-skeuomorphism/amp/?__twitter_impression=true
+1. https://martinfowler.com/bliki/OutcomeOverOutput.html
+1. https://martinfowler.com/articles/product-service-partnerships.html
+1. https://martinfowler.com/articles/programs-in-product-mode.html#InvestInVisualArtifactsThatAidInInformationRadiation

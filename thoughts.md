@@ -19,3 +19,6 @@
 1.  Say what's the problem and show the solution for that problem.
 
 1.  Flow chart is a good too for small programs to make decomposition.
+
+1. simple = sim + plex opposite to com + plex https://www.infoq.com/presentations/Simple-Made-Easy/
+1. Information hiding helps to change a software in evolutionary way: https://en.wikipedia.org/wiki/Information_hiding
