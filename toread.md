@@ -14,3 +14,4 @@
 1. https://martinfowler.com/bliki/OutcomeOverOutput.html
 1. https://martinfowler.com/articles/product-service-partnerships.html
 1. https://martinfowler.com/articles/programs-in-product-mode.html#InvestInVisualArtifactsThatAidInInformationRadiation
+1. Leadership Is Language, David Marquet (2020) 

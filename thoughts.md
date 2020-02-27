@@ -22,3 +22,6 @@
 
 1. simple = sim + plex opposite to com + plex https://www.infoq.com/presentations/Simple-Made-Easy/
 1. Information hiding helps to change a software in evolutionary way: https://en.wikipedia.org/wiki/Information_hiding
+
+1. The common phrase says "you get what you measure", in this case it's more like "you get what you try to measure".
+1. Outcome (how cumstomer /user increase their profit) instead output (how much story points/ lines of code produces team)

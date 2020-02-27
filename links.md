@@ -4,4 +4,5 @@
 1. https://git-scm.com/book/en/v2 - git book
 1. https://github.com/ardalis/GuardClauses - to avoid checking boiler code 
 1. https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/ - wow
-
+1. http://blog.deploymentengineering.com/2008/05/deployment-tools-foundation-dtf-custom.html - how managed code custom action are run in the installer
+1. https://michaelscodingspot.com/dotnet-debugging-tools/
