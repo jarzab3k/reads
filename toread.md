@@ -15,3 +15,5 @@
 1. https://martinfowler.com/articles/product-service-partnerships.html
 1. https://martinfowler.com/articles/programs-in-product-mode.html#InvestInVisualArtifactsThatAidInInformationRadiation
 1. Leadership Is Language, David Marquet (2020) 
+1. https://ronjeffries.com/articles/016-09ff/defense/
+1. John Ousterhout: "A Philosophy of Software Design“ / John Ousterhout: "A Philosophy of Software Design" | Talks at Google

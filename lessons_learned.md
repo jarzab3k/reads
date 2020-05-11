@@ -24,3 +24,16 @@ git config lfs.fetchinclude oder lfs.fetchexclude
 22. splitting commits -  https://git-scm.com/docs/git-rebase#_splitting_commits
 fleetmanagement.dentsplysirona
 23. windows installer logs -> https://support.microsoft.com/en-us/help/223300/how-to-enable-windows-installer-logging
+24. Remote desktop with ubuntu
+	https://askubuntu.com/questions/592537/can-i-access-ubuntu-from-windows-remotely
+	when you got blackscreen:
+	https://github.com/neutrinolabs/xrdp/issues/598#issuecomment-303203274
+	https://github.com/neutrinolabs/xrdp/issues/764#issuecomment-304576785
+	https://github.com/neutrinolabs/xrdp/issues/598#issuecomment-320138326
+	https://github.com/neutrinolabs/xrdp/issues/893
+25. When you have problems with Microsoft.Graph in Azure Portal for KeyVault:
+	https://blog.alanta.nl/2020/01/grant-yourself-access-to-azure-key-vault.html
+26. KeyVault in Azure Functions:
+	- https://blog.wille-zone.de/post/dependency-injection-for-azure-functions/
+	- https://blog.wille-zone.de/post/azure-keyvault-for-azure-functions/
+	- https://medium.com/statuscode/getting-key-vault-secrets-in-azure-functions-37620fd20a0b

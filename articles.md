@@ -4,3 +4,5 @@
 |Charles Lambdin|Red and Blue Work: Agile as Skeuomorphism|https://charleslambdin.wordpress.com/2020/02/18/red-and-blue-work-agile-as-skeuomorphism/amp/?__twitter_impression=true|
 |Martin Fowler|OutcomeOverOutput|https://martinfowler.com/bliki/OutcomeOverOutput.html|
 |Martin Fowler|Product-Service Partnerships|https://martinfowler.com/articles/product-service-partnerships.html|
+|Sandi Metz|The Wrong Abstraction |https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction|
+|Martin Fowler|Coping with Covid-19|https://martinfowler.com/articles/202002-covid19.html|

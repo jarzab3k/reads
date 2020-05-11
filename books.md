@@ -1,6 +1,10 @@
 # 2020
 
 1. Litr cieklego oleju
+1. Seven languages in seven weeks
+1. Analysis patterns, reusable object models
+1. Dzień wskrzeszenia
+
 
 # 2019
 
@@ -13,6 +17,7 @@
 1. Clean architecture
 1. Nienasycony Robert Lewandowski
 1. Software Systems Architecture: Working with stakeholders using viewpoints and perspectives
+1. Clean code
 
 # 2018
 

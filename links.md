@@ -6,3 +6,6 @@
 1. https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/ - wow
 1. http://blog.deploymentengineering.com/2008/05/deployment-tools-foundation-dtf-custom.html - how managed code custom action are run in the installer
 1. https://michaelscodingspot.com/dotnet-debugging-tools/
+1. https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 - clean code summary
+1. https://www.tabsoverspaces.com/233813-improving-list-sum-function-based-on-head-and-tail-with-csharp-8?utm_source=feed - new features of C#8
+1. https://en.wikipedia.org/wiki/Hawthorne_effect - the effect of being observed
