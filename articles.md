@@ -6,3 +6,4 @@
 |Martin Fowler|Product-Service Partnerships|https://martinfowler.com/articles/product-service-partnerships.html|
 |Sandi Metz|The Wrong Abstraction |https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction|
 |Martin Fowler|Coping with Covid-19|https://martinfowler.com/articles/202002-covid19.html|
+|Martin Fowler|Branching models|https://martinfowler.com/articles/branching-patterns.html|

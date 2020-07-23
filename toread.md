@@ -17,3 +17,4 @@
 1. Leadership Is Language, David Marquet (2020) 
 1. https://ronjeffries.com/articles/016-09ff/defense/
 1. John Ousterhout: "A Philosophy of Software Design“ / John Ousterhout: "A Philosophy of Software Design" | Talks at Google
+1. https://blog.stephencleary.com/2020/06/a-new-pattern-for-exception-logging.html
