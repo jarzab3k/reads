@@ -7,3 +7,5 @@
 |Sandi Metz|The Wrong Abstraction |https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction|
 |Martin Fowler|Coping with Covid-19|https://martinfowler.com/articles/202002-covid19.html|
 |Martin Fowler|Branching models|https://martinfowler.com/articles/branching-patterns.html|
+|Roberto Zicari|Thirty Years C++. Interview with Bjarne Stroustrup|http://www.odbms.org/blog/2020/07/thirty-years-c-interview-with-bjarne-stroustrup/|
+|Hillel Wayne|The epistemology of software quality|https://increment.com/teams/the-epistemology-of-software-quality/|

@@ -18,3 +18,46 @@
 1. https://ronjeffries.com/articles/016-09ff/defense/
 1. John Ousterhout: "A Philosophy of Software Design“ / John Ousterhout: "A Philosophy of Software Design" | Talks at Google
 1. https://blog.stephencleary.com/2020/06/a-new-pattern-for-exception-logging.html
+1. Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle (German) Uwe Vigenschow, Björn Schneider, Ines Meyrose ISBN-13:  978-3864906978
+1. Lean from the Trenches: Managing Large-Scale Projects with Kanban Henrik Kniberg ISBN-13: 978-1934356852
+1. Becoming a Better Programmer: A Handbook for People Who Care About Code Pete Goodliffe ISBN-13: 978-1491905531
+1.  Domain-Driven Design Distilled 1st Edition Vaughn Vernon ISBN-13: 978-0134434421
+1. The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition Frederick P. Brooks Jr. ISBN-13: 978-0201835953
+1. Object Design: Roles, Responsibilities, and Collaborations Rebecca Wirfs-Brock, Alan McKean ISBN-13: 978-0201379433
+1. Humans vs Computers  Gojko Adzi ISBN-13: 978-0993088131
+1. Pragmatic Software Testing: Becoming an Effective and Efficient Test Professional Rex Black ISBN-13: 978-0470127902
+1. Growing Object-Oriented Software, Guided by Tests Freeman, Steve , Nat Pryce ISBN-13: 978-0321503626
+1.  Fifty Quick Ideas To Improve Your User Stories Gojko Adzic,  David Evans ISBN-13: 978-0993088100
+1. The Practice of Programming Brian W. Kernighan, Rob Pike ISBN-13: 978-0201615869
+1. Documenting Software Architectures: Views and Beyond (2nd Edition) Paul Clements, Felix Bachmann, Len Bass, David Garlan, James Ivers, Reed Little, Paulo Merson, Robert Nord,   Judith Stafford ISBN-13: 978-0321552686
+1. Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems David J. Agans ISBN-13: 978-0814434451
+1. Test Driven Development: By Example Kent Beck ISBN-13: 978-0321146533
+1. Programming Pearls Jon Bentley ISBN-13: 978-0201657883
+1. Your Code as a Crime Scene: Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs Adam Tornhill ISBN-13: 978-1680500387
+1. Fifty Quick Ideas To Improve Your Tests Gojko Adzic, David Evans, Tom Roden ISBN-13: 978-0993088117
+1. Effektive Softwarearchitekturen: Ein praktischer Leitfaden Gernot Starke ISBN-13: 978-3446452077
+1. The Deadline: A Novel About Project Management Tom DeMarco ISBN-13: 978-0932633392
+1. Computer Networks (English) 5th Edition Andrew S. Tanenbaum, David J. Wetherall ISBN-13: 978-0132126953
+1. Soft Skills für IT-Führungskräfte und Projektleiter: Softwareentwickler führen und coachen, Hochleistungsteams aufbauen (German) Uwe Vigenschow, Björn Schneider, Ines Meyrose ISBN-13: 978-3864903953
+1. Seven More Languages in Seven Weeks: Languages That Are Shaping the Future Bruce Tate, Ian Dee,s Frederic Daoud, Jack Moffitt ISBN-13: 978-1941222157
+1. Domain-Driven Design: Tackling Complexity in the Heart of Software Eric Evans ISBN-13: 978-0321125217
+1. Software Estimation: Demystifying the Black Art (Developer Best Practices) Steve McConnell ISBN-13: 978-0735605350
+1. Modern Operating Systems: Global Edition Andrew S. Tanenbaum, Herbert Bos ISBN-13: 978-1292061429
+1. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems Martin Kleppmann ISBN-13: 978-1449373320
+1. Agile Retrospectives: Making Good Teams Great Esther Derby, Diana Larsen ISBN-13: 978-0977616640
+1. Practical Cryptography Niels Ferguson, Bruce Schneier ISBN-13: 978-0471223573
+1. Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions Gregor Hohpe, Bobby Woolf ISBN-13: 978-0321200686
+1. Liftoff: Start and Sustain Successful Agile Teams  Diana Larsen, Ainsley Nies ISBN-13: 978-1680501636
+1. More Programming Pearls: Confessions of a Coder Jon Bentley ISBN-13: 978-0201118896
+1. not necessarly -> Designing Interfaces: Patterns for Effective Interaction Design Jenifer Tidwell ISBN-13: 978-1449379704
+1. Agile Estimating and Planning Mike Cohn ISBN-13: 978-0131479418
+1. Data Science at the Command Line: Facing the Future with Time-Tested Tools Jeroen Janssens ISBN-13: 978-1491947852
+1. Specification by Example  Gojko Adzic ISBN-13: 978-1617290084
+1. User Stories Applied: For Agile Software Development Mike Cohn ISBN-13: 978-0321205681
+1. xUnit Test Patterns: Refactoring Test Code Gerard Meszaros ISBN-13: 978-0131495050
+1. The Principles of Product Development Flow: Second Generation Lean Product Development Donald G. Reinertsen ISBN-13: 978-1935401001
+1. The Leprechauns of Software Engineering Laurent Bossavit ISBN-13: 978-2954745503
+1. Bridging the Communication Gap Gojko Adzic ISBN-13: 978-0955683619
+1. Impact Mapping  Gojko Adzic ISBN-13: 978-0955683640
+1. not necessarly -> The Rational Unified Process: An Introduction (2nd Edition) Philippe Kruchten ISBN-13: 978-0201707106
+1. Effective C: An Introduction to Professional C Programming by Robert C. Seacord
