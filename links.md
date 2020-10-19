@@ -9,3 +9,8 @@
 1. https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 - clean code summary
 1. https://www.tabsoverspaces.com/233813-improving-list-sum-function-based-on-head-and-tail-with-csharp-8?utm_source=feed - new features of C#8
 1. https://en.wikipedia.org/wiki/Hawthorne_effect - the effect of being observed
+1. https://github.com/hediet/vscode-drawio/blob/master/README.md
+1. https://www.honeycomb.io/blog/lies-my-parents-told-me-about-logs/
+1. https://approvaltests.com/
+1. https://github.com/AutoFixture/AutoFixture
+1. https://michaelscodingspot.com/application-memory-health/
