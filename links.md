@@ -14,3 +14,9 @@
 1. https://approvaltests.com/
 1. https://github.com/AutoFixture/AutoFixture
 1. https://michaelscodingspot.com/application-memory-health/
+1. https://arnemertz.github.io/online-compilers/
+1. https://github.com/hediet/vscode-drawio/blob/master/README.md
+1. https://www.bfilipek.com/search/label/Cpp17
+1. https://arne-mertz.de/category/cpp/modern-cpp/
+1. https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
+1. https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860

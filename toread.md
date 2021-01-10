@@ -62,3 +62,4 @@
 1. not necessarly -> The Rational Unified Process: An Introduction (2nd Edition) Philippe Kruchten ISBN-13: 978-0201707106
 1. Effective C: An Introduction to Professional C Programming by Robert C. Seacord
 1. https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811
+1. Limitless by Jim Kwik
