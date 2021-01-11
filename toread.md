@@ -63,3 +63,7 @@
 1. Effective C: An Introduction to Professional C Programming by Robert C. Seacord
 1. https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811
 1. Limitless by Jim Kwik
+1. The Goal - M. Goldratt
+1. The Logic of Life (book)
+1. User Story Mapping / User Story Applied Jeff Patton
+1. The Phoenix Project (book)

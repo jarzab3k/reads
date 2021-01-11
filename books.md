@@ -1,9 +1,13 @@
+# 2021
+
 # 2020
 
 1. Litr cieklego oleju
 1. Seven languages in seven weeks
 1. Analysis patterns, reusable object models
 1. Dzień wskrzeszenia
+1. Code complete 2
+1. Miasto Sniacych ksiazek
 
 
 # 2019
