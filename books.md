@@ -5,6 +5,9 @@
 1. Lego
 1. Getting Started With Innersource by Andy Oram
 1. Codzienne rytuały, jak pracują wielkie umysły
+1. Lew-Starowicz o milosci 
+1. Working Effectively with Legacy Code
+
 
 # 2020
 
