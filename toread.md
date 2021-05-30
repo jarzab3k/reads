@@ -1,4 +1,3 @@
-1. getting-started-with-innersource.pdf by Andy Oram
 1. https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma book
 1. https://www.oreilly.com/library/view/design-it/9781680502923/ Design it!, M.Keeling
 1. https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds The Wisdom of Crowds, James Surowiecki
@@ -67,3 +66,5 @@
 1. The Logic of Life (book)
 1. User Story Mapping / User Story Applied Jeff Patton
 1. The Phoenix Project (book)
+1. https://www.amazon.de/Turn-Ship-Around-Building-Breaking/dp/1591846404
+1. https://www.amazon.de/Object-Oriented-Software-Construction-Prentice-engl/dp/0136291554/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1K6P1KBPPOFMA&dchild=1&keywords=bertrand+meyer+object-oriented&qid=1612167802&sprefix=bertrand+meyer+%2Caps%2C331&sr=8-2 

@@ -25,3 +25,15 @@
 
 1. The common phrase says "you get what you measure", in this case it's more like "you get what you try to measure".
 1. Outcome (how cumstomer /user increase their profit) instead output (how much story points/ lines of code produces team)
+
+1. Balance your expectations from others (give a trust, delegate tasks, help grow other people)
+
+1. Each activity needs justification (why we doing it? how we want to resolve it?)
+
+1. Show data only with full information (fully understood and proven, no temporary data/ intermediate results)
+
+1. Dont put yourself in a box
+1. Listen to people! 
+1. Collect facts, not assumptions
+1. Nobody does something on purpose!
+1. Listening not mentoring

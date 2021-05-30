@@ -1,5 +1,10 @@
 # 2021
 
+1. Milosc i matematyka
+1. Factfullness
+1. Lego
+1. Getting Started With Innersource by Andy Oram
+
 # 2020
 
 1. Litr cieklego oleju
@@ -29,6 +34,7 @@
 1. Anatomia kłamstwa
 1. Pragmatic programmer
 1. Tata Tadzika
+1. Krotka historia czasu
 
 
 # 2017
