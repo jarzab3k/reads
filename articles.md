@@ -9,3 +9,5 @@
 |Martin Fowler|Branching models|https://martinfowler.com/articles/branching-patterns.html|
 |Roberto Zicari|Thirty Years C++. Interview with Bjarne Stroustrup|http://www.odbms.org/blog/2020/07/thirty-years-c-interview-with-bjarne-stroustrup/|
 |Hillel Wayne|The epistemology of software quality|https://increment.com/teams/the-epistemology-of-software-quality/|
+|Oz Nova
+|You Are Not Google|https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb|
