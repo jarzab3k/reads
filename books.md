@@ -1,18 +1,19 @@
 # 2021
 
-1. Milosc i matematyka
+1. Miłość i matematyka
 1. Factfullness
 1. Lego
 1. Getting Started With Innersource by Andy Oram
+1. Codzienne rytuały, jak pracują wielkie umysły
 
 # 2020
 
-1. Litr cieklego oleju
+1. Litr ciekłego oleju
 1. Seven languages in seven weeks
 1. Analysis patterns, reusable object models
 1. Dzień wskrzeszenia
 1. Code complete 2
-1. Miasto Sniacych ksiazek
+1. Miasto Śniących książek
 
 
 # 2019
