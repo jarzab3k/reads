@@ -1,6 +1,7 @@
 1. git
     - https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
     - git config --global alias.logn 'log --oneline -n'
+1. putty
 2. Visual Studio Code
     - C# extension
     - Terminal for git
