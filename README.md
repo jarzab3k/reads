@@ -1,6 +1,6 @@
 This repo contains things that I've read lately.
 
-It is supposed to be a list of all the things that I read (books, articles), saw (youtube talks) with some summary, so I can get beck here, when I forget why I read some book/article at all. 
+It is supposed to be a list of all the things that I read (books, articles), saw (youtube talks) with some summary, so I can get back here, when I forget why I read some book/article at all. 
 
 There are three main files:
  books.md - just a plain list of books that I read in chronological order, here are also non-technical books (just to keep tracking)

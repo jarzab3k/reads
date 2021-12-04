@@ -8,8 +8,8 @@
 1. Lew-Starowicz about love (org. Lew-Starowicz o miłości), Lew-Starowicz Zbigniew
 1. Working Effectively with Legacy Code, Michael C. Feathers
 1. Alpine hikes (org. Wędrówki alpejskie), Wawrzyniec Żuławski
-1. The Innovator's Dilemma book
-1. Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
+1. The Innovator's Dilemma book, Clayton M. Christensen
+1. Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations, : Nicole Forsgren & Jez Humble & Gene Kim
 
 
 # 2020
