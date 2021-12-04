@@ -1,63 +1,67 @@
 # 2021
 
-1. Miłość i matematyka
-1. Factfullness
-1. Lego
-1. Getting Started With Innersource by Andy Oram
-1. Codzienne rytuały, jak pracują wielkie umysły
-1. Lew-Starowicz o milosci 
-1. Working Effectively with Legacy Code
+1. Love and Math: The Heart of Hidden Reality, Edward Frankel
+1. Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think, Hans Rosling
+1. The LEGO Miracle, Niels Lunde
+1. Getting Started With Innersource, Andy Oram
+1. Daily Rituals: How Artists Work, Mason Currey
+1. Lew-Starowicz about love (org. Lew-Starowicz o miłości), Lew-Starowicz Zbigniew
+1. Working Effectively with Legacy Code, Michael C. Feathers
+1. Alpine hikes (org. Wędrówki alpejskie), Wawrzyniec Żuławski
+1. The Innovator's Dilemma book
+1. Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
 
 
 # 2020
 
-1. Litr ciekłego oleju
-1. Seven languages in seven weeks
-1. Analysis patterns, reusable object models
-1. Dzień wskrzeszenia
-1. Code complete 2
-1. Miasto Śniących książek
+1. One Liter of Liquid Oil (org. Litr ciekłego oleju), Andrzej Pilipiuk
+1. Seven languages in seven weeks, Bruce A. Tate
+1. Analysis patterns, reusable object models, Martin Fowler
+1. Operation: Resurrection Day (org. Dzień wskrzeszenia), Andrzej Pilipiuk
+1. Code complete 2, Steve McConnell
+1. The City of Dreaming Books, Walter Moers
 
 
 # 2019
 
-1. Trylogia kosmiczna
-1. Refactoring
-1. Patterns of enterprise applications
-1. This is lean
-1. Release it
-1. Continuous Integration
-1. Clean architecture
-1. Nienasycony Robert Lewandowski
-1. Software Systems Architecture: Working with stakeholders using viewpoints and perspectives
-1. Clean code
+1. The Space Trilogy, C.S. Lewis
+1. Refactoring: Improving the Design of Existing Code, Martin Fowler
+1. Patterns of enterprise applications, Martin Fowler
+1. This is lean, Niklas Modig & Pär Åhlström
+1. Release It!: Design and Deploy Production-Ready Software, Michael T. Nygard
+1. CContinuous Integration: Improving Software Quality and Reducing Risk, Andrew Glover & Paul M. Duvall & Steve Matyas
+1. Clean architecture, Robert C. Martin 
+1. Insatiable Robert Lewandowski (org. Nienasycony Robert Lewandowski), Paweł Wilkowicz
+1. Software Systems Architecture: Working with stakeholders using viewpoints and perspectives, Eoin Woods & Nick Rozanski
+1. Clean code, Robert C. Martin 
 
 # 2018
 
 1. Ekonomia
-1. Anatomia kłamstwa
-1. Pragmatic programmer
-1. Tata Tadzika
-1. Krotka historia czasu
+1. Spy the Lie: Three Former CIA Officers Reveal Their Secrets to Uncloaking Deception, Susan Carnicero & Michael Floyd & Philip Houston & Don Tennant
+1. The Pragmatic Programmer: journey to mastery, David Thomas & Andrew Hunt
+1. Teddy's Daddy (org. Tata Tadzika), Maciej Stuhr
+1. A Brief History of Time, Stephen Hawking
 
 
 # 2017
 
-1. 6 Światów Hain
-1. Biała gorączka
-1. Świat równoległy
-1. Zajeździmy kobyłę historii
-1. How to be a German
+1. The Six worlds of Hain, Ursula K. Le Guin
+1. White fever: a journey to the frozen heart of Siberia, Jacek Hugo-Bader
+1. The Parallel World (org. Świat równoległy), Tomek Michniewicz
+1. We will ride the mare of history (org. Zajeździmy kobyłę historii), Karol Modzelewski
+1. How to be German in 50 easy steps, Adam Fletcher
 
 # 2016
-1. Potop
-1. Pan Wołodyjowski
-1. Sztuka przekonywania
-1. Harry Potter i Książę Półkrwi
-1. Matematycy Lwowscy
-1. Wieniawa
-1. Ostatnia Krucjata
-1. Biblia taniego latania
-1. Siła własnej woli
-1. Pan raczy żartować Panie Feynman
-1. Sierpniowe salwy
+
+1. The Deluge, Henryk Sienkiewicz
+1. Colonel Wolodyjowski, Henryk Sienkiewicz
+1. Rhetoric - the art of persuasion, Cornelia Dietrich
+1. Harry Potter and the Half-Blood Prince, J.K. Rowling
+1. Geniuses. Lviv School of Mathematics (org. Genialni. Lwowska szkoła matematyczna), Mariusz Urbanek
+1. Wieniawa. Cheval Leger on Pegasus (org. Wieniawa. Szwoleżer na Pegazie),  Mariusz Urbanek
+1. The Last Crusade, Nigel Cliff
+1. The Bible of Cheap Flying (org. Biblia taniego latania), Dawid Dudek
+1. The Willpower Instinct, Kelly McGonigal
+1. Surely You're Joking, Mr. Feynman!, Richard Feynman
+1. The Guns of August, Barbara Tuchman
