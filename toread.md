@@ -69,3 +69,5 @@
 1. https://www.amazon.de/Object-Oriented-Software-Construction-Prentice-engl/dp/0136291554/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1K6P1KBPPOFMA&dchild=1&keywords=bertrand+meyer+object-oriented&qid=1612167802&sprefix=bertrand+meyer+%2Caps%2C331&sr=8-2 
 1. https://docs.microsoft.com/en-us/azure/architecture/patterns/
 1. Time to Think: Listening to Ignite the Human Mind 
+1. David Allen's "Getting Things Done"
+1. Nir Eyal, Julie Li Indistractable How to Control Your Attention and Choose Your Life
