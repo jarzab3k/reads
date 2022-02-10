@@ -1,3 +1,7 @@
+# 2022
+
+1. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, Martin Kleppmann
+
 # 2021
 
 1. Love and Math: The Heart of Hidden Reality, Edward Frankel

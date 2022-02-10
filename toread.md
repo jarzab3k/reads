@@ -70,4 +70,5 @@
 1. https://docs.microsoft.com/en-us/azure/architecture/patterns/
 1. Time to Think: Listening to Ignite the Human Mind 
 1. David Allen's "Getting Things Done"
-1. Nir Eyal, Julie Li Indistractable How to Control Your Attention and Choose Your Life
+1. Nir Eyal, Julie Li Indistractable How to Control Your Attention and Choose Your Life\
+1. 97 Things Every Cloud Engineer Should Know, https://www.redhat.com/rhdc/managed-files/cl-97-things-cloud-engineers-know-e-book-oreilly-f28602-202105-en.pdf
