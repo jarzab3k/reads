@@ -41,7 +41,6 @@
 1. Domain-Driven Design: Tackling Complexity in the Heart of Software Eric Evans ISBN-13: 978-0321125217
 1. Software Estimation: Demystifying the Black Art (Developer Best Practices) Steve McConnell ISBN-13: 978-0735605350
 1. Modern Operating Systems: Global Edition Andrew S. Tanenbaum, Herbert Bos ISBN-13: 978-1292061429
-1. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems Martin Kleppmann ISBN-13: 978-1449373320
 1. Agile Retrospectives: Making Good Teams Great Esther Derby, Diana Larsen ISBN-13: 978-0977616640
 1. Practical Cryptography Niels Ferguson, Bruce Schneier ISBN-13: 978-0471223573
 1. Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions Gregor Hohpe, Bobby Woolf ISBN-13: 978-0321200686
@@ -71,6 +70,5 @@
 1. Time to Think: Listening to Ignite the Human Mind 
 1. David Allen's "Getting Things Done"
 1. Nir Eyal, Julie Li Indistractable How to Control Your Attention and Choose Your Life\
-1. 97 Things Every Cloud Engineer Should Know, https://www.redhat.com/rhdc/managed-files/cl-97-things-cloud-engineers-know-e-book-oreilly-f28602-202105-en.pdf
 1. Empowered - https://www.amazon.in/Empowered-Ordinary-Extraordinary-Products-Silicon/dp/111969129X
 1. Working Backwards - https://www.amazon.com/Working-Backwards-Colin-Bryar-Bill/dp/1529033837
