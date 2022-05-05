@@ -1,6 +1,8 @@
 # 2022
 
 1. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, Martin Kleppmann
+1. 97 Things Every Cloud Engineer Should Know
+1. The first years of a mother's life (org. Pierwsze lata życia matki), Alicja Kost
 
 # 2021
 
