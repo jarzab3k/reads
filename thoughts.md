@@ -37,3 +37,13 @@
 1. Collect facts, not assumptions
 1. Nobody does something on purpose!
 1. Listening not mentoring
+
+1. APIs Law by Werner Vogels
+- API are forever
+- never break backward compatibility
+- work backwards from customer use cawses
+- create APIs with explicit and - well-documented failure modes
+- crate API taht are self-describing and have a clear, specific purpose
+- avoid leaking implementation details at all costs
+
+1. AWS Well-Architected

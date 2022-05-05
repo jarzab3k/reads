@@ -72,3 +72,5 @@
 1. David Allen's "Getting Things Done"
 1. Nir Eyal, Julie Li Indistractable How to Control Your Attention and Choose Your Life\
 1. 97 Things Every Cloud Engineer Should Know, https://www.redhat.com/rhdc/managed-files/cl-97-things-cloud-engineers-know-e-book-oreilly-f28602-202105-en.pdf
+1. Empowered - https://www.amazon.in/Empowered-Ordinary-Extraordinary-Products-Silicon/dp/111969129X
+1. Working Backwards - https://www.amazon.com/Working-Backwards-Colin-Bryar-Bill/dp/1529033837
