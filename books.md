@@ -3,6 +3,7 @@
 1. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, Martin Kleppmann
 1. 97 Things Every Cloud Engineer Should Know
 1. The first years of a mother's life (org. Pierwsze lata życia matki), Alicja Kost
+1. The Phoenix Project, A Novel About IT, DevOps, and Helping Your Business Win, Gene Kim, Kevin Behr, and George Spafford
 
 # 2021
 

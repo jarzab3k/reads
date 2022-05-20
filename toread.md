@@ -72,3 +72,10 @@
 1. Nir Eyal, Julie Li Indistractable How to Control Your Attention and Choose Your Life\
 1. Empowered - https://www.amazon.in/Empowered-Ordinary-Extraordinary-Products-Silicon/dp/111969129X
 1. Working Backwards - https://www.amazon.com/Working-Backwards-Colin-Bryar-Bill/dp/1529033837
+1. Personal Kanban: Mapping Work | Navigating Life by Jim Benson and Tonianne DeMaria Barry. 
+1. David J. Anderson’s book Kanban: Successful Evolutionary Change for Your Technology Business
+1. The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps and Visible Ops Security: Achieving Common Security and IT Operations Objectives in 4 Practical Steps
+1. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+1. Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results by Shingo Prize winner Mike Rother.
+1. Patrick Lencioni’s methodology described in The Five Dysfunctions of a Team: A Leadership Fable
+1. Dr. Eliyahu Goldratt wrote his seminal book, The Goal: A Process of Ongoing Improvement 
