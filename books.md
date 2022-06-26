@@ -28,6 +28,7 @@
 1. Operation: Resurrection Day (org. Dzień wskrzeszenia), Andrzej Pilipiuk
 1. Code complete 2, Steve McConnell
 1. The City of Dreaming Books, Walter Moers
+1. How To Talk So Little Kids Will Listen, Faber Joanna, King Julie
 
 
 # 2019
@@ -37,7 +38,7 @@
 1. Patterns of enterprise applications, Martin Fowler
 1. This is lean, Niklas Modig & Pär Åhlström
 1. Release It!: Design and Deploy Production-Ready Software, Michael T. Nygard
-1. CContinuous Integration: Improving Software Quality and Reducing Risk, Andrew Glover & Paul M. Duvall & Steve Matyas
+1. Continuous Integration: Improving Software Quality and Reducing Risk, Andrew Glover & Paul M. Duvall & Steve Matyas
 1. Clean architecture, Robert C. Martin 
 1. Insatiable Robert Lewandowski (org. Nienasycony Robert Lewandowski), Paweł Wilkowicz
 1. Software Systems Architecture: Working with stakeholders using viewpoints and perspectives, Eoin Woods & Nick Rozanski
