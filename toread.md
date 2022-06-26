@@ -4,7 +4,6 @@
 1. https://en.wikipedia.org/wiki/The_Mythical_Man-Month The Mythical Man-Month, Fred Brooks.
 1. https://www.amazon.com/Culture-Empire-Revolution-Pieter-Hintjens/dp/1492999776 Culture and Empire: Digital Revolution, Pieter Hintjens
 1. https://www.amazon.com/Principles-Transaction-Processing-Kaufmann-Management/dp/1558606238, Principles of Transaction Processing, Philip A. Bernstein, Eric Newcomer
-1. https://embeddedartistry.com/blog/2017/09/06/debugging-9-indispensable-rules/ Debugging: 9 Indispensable Rules, David J. Agans
 1. https://www.amazon.com/Pattern-Oriented-Software-Architecture-Concurrent-Networked/dp/0471606952 Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects,  Douglas Schmidt
 1. http://www.usingcsp.com/ Communicating Sequential Processes (CSP), Tony Hoare
 1. https://www.amazon.com/Order-Out-Chaos-Ilya-Prigogine/dp/0553343637, Order Out of Chaos, Ilya Prigogine, Isabelle Stengers
@@ -63,7 +62,6 @@
 1. The Goal - M. Goldratt
 1. The Logic of Life (book)
 1. User Story Mapping / User Story Applied Jeff Patton
-1. The Phoenix Project (book)
 1. https://www.amazon.de/Turn-Ship-Around-Building-Breaking/dp/1591846404
 1. https://www.amazon.de/Object-Oriented-Software-Construction-Prentice-engl/dp/0136291554/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1K6P1KBPPOFMA&dchild=1&keywords=bertrand+meyer+object-oriented&qid=1612167802&sprefix=bertrand+meyer+%2Caps%2C331&sr=8-2 
 1. https://docs.microsoft.com/en-us/azure/architecture/patterns/
@@ -75,7 +73,6 @@
 1. Personal Kanban: Mapping Work | Navigating Life by Jim Benson and Tonianne DeMaria Barry. 
 1. David J. Anderson’s book Kanban: Successful Evolutionary Change for Your Technology Business
 1. The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps and Visible Ops Security: Achieving Common Security and IT Operations Objectives in 4 Practical Steps
-1. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 1. Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results by Shingo Prize winner Mike Rother.
 1. Patrick Lencioni’s methodology described in The Five Dysfunctions of a Team: A Leadership Fable
 1. Dr. Eliyahu Goldratt wrote his seminal book, The Goal: A Process of Ongoing Improvement 
