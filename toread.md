@@ -76,3 +76,6 @@
 1. Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results by Shingo Prize winner Mike Rother.
 1. Patrick Lencioni’s methodology described in The Five Dysfunctions of a Team: A Leadership Fable
 1. Dr. Eliyahu Goldratt wrote his seminal book, The Goal: A Process of Ongoing Improvement 
+1. Modern Software Engineering: Doing What Works to Build Better Software Faster
+1. When Will It Be Done?: Lean-Agile Forecasting to Answer Your Customers' Most Important Question, Daniel S. Vacanti, https://www.goodreads.com/book/show/40681093-when-will-it-be-done
+1. The Coming Storm, Michael Lewis, https://www.goodreads.com/en/book/show/41016100-the-coming-storm

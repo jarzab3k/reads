@@ -20,3 +20,4 @@
 1. https://arne-mertz.de/category/cpp/modern-cpp/
 1. https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
 1. https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860
+1. http://www.catb.org/~esr/faqs/smart-questions.html
