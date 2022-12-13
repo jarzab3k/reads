@@ -16,7 +16,6 @@ We don't have unlimited time to cover all wishes
 4+1 view model
 Viewpoints = classes, view = objects
 
-
 Perspective helps to achieve the quality property
 
 Perspective - safety?
@@ -28,9 +27,7 @@ Capture and understand concerns
 Take ownership of the architecture
 Be a lead in the realization of architecture to the real system
 
-
 Learn the (business) domain
-
 
 Bashar nuseibeh's twin peaks model
 Ta książka to nie jest opis tego co mamy w zaaf?
@@ -77,9 +74,6 @@ Scenario based evaluation : architecture tradeoff analysis method by software en
 Skeleton system
 TARA tiny architectural review approach
 Good recommendation is Clear concise and tact!
-
-
-
 
 
 Context view!

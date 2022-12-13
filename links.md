@@ -19,5 +19,16 @@
 1. https://www.bfilipek.com/search/label/Cpp17
 1. https://arne-mertz.de/category/cpp/modern-cpp/
 1. https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
-1. https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860
 1. http://www.catb.org/~esr/faqs/smart-questions.html
+1. https://en.m.wikipedia.org/wiki/Postfix_(software)
+1. https://www.cleancoders.com
+1. https://www.laputan.org/mud
+1. https://www.integratebutton.com
+1. https://www.martinfowler.com/bliki/cannotmeasureproductivity.html
+1. Martinfowler. Com/articles /injection. Html
+1. Tealeaf.com
+1. Site scope ATG? Www.atg.com
+1. Www.csszengarden.com
+1. Roc.cs.barkley.edu - recovery oriented computing
+
+

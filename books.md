@@ -5,6 +5,7 @@
 1. The first years of a mother's life (org. Pierwsze lata życia matki), Alicja Kost
 1. The Phoenix Project, A Novel About IT, DevOps, and Helping Your Business Win, Gene Kim, Kevin Behr, and George Spafford
 1. Continuous Delivery Reliable Software Releases through Build, Test, and Deployment Automation, Humble Jez, Farley David
+1. Domain-Driven Design: Tackling Complexity in the Heart of Software, Eric Evans 
 
 # 2021
 

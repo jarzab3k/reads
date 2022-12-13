@@ -79,3 +79,4 @@
 1. Modern Software Engineering: Doing What Works to Build Better Software Faster
 1. When Will It Be Done?: Lean-Agile Forecasting to Answer Your Customers' Most Important Question, Daniel S. Vacanti, https://www.goodreads.com/book/show/40681093-when-will-it-be-done
 1. The Coming Storm, Michael Lewis, https://www.goodreads.com/en/book/show/41016100-the-coming-storm
+1. No Rules Rules: Netflix and the Culture of Reinvention, Erin Meyer, https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860

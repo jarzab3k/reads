@@ -2,7 +2,7 @@ Common dictionary help us better communicate www.aw.com/cp/Fowler.html
 Domain first technology second
 Snooker ball problem
 
-Models ar not wrong or right they are more or less useful
+Models are not wrong or right they are more or less useful
 
 R. Johnson & w. Cunningham : projects fail despite the latest technology for lack of ordinary solutions
 Some clients don't like to think themselves as similar to other clients
@@ -55,7 +55,9 @@ Stretching facade
 Kain jb measuring the return on investment of reuse
 
 Generalization by delegating to a hidden class
+
 Registrar objects
+
 Rumbaughs collar notation
 
 Two dimensional history
