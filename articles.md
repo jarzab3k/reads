@@ -11,3 +11,4 @@ Title, Author, Link
 1. The epistemology of software quality, Hillel Wayne, https://increment.com/teams/the-epistemology-of-software-quality/
 1. You Are Not Google, Oz Nova, https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb
 1. Maker's Schedule, Manager's Schedule, Paul Graham, http://www.paulgraham.com/makersschedule.html
+1. Continuous Delivery Sounds Great, but Will It Work Here?, Jez Humble, https://dl.acm.org/doi/pdf/10.1145/3173553
