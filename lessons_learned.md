@@ -38,3 +38,9 @@ fleetmanagement.dentsplysirona
 	- https://blog.wille-zone.de/post/azure-keyvault-for-azure-functions/
 	- https://medium.com/statuscode/getting-key-vault-secrets-in-azure-functions-37620fd20a0b
 27. Cache of matlab -> C:\Users\paja\AppData\Local\Temp\paja\mcrCache8.3
+28. Spark links:
+https://spark.apache.org/docs/latest/api/java/index.html?org/apache/spark/sql/Dataset.html
+https://medium.com/@aristo_alex/how-apache-sparks-transformations-and-action-works-ceb0d03b00d0
+https://stackoverflow.com/questions/53594029/is-it-a-good-practice-to-incur-spark-show-method-in-production-spark-job
+https://livebook.manning.com/book/spark-in-action-second-edition/16-cache-and-checkpoint-enhancing-spark-s-performances/v-14/1
+https://stackoverflow.com/questions/35127720/what-is-the-difference-between-spark-checkpoint-and-persist-to-a-disk

@@ -7,6 +7,8 @@
 1. Continuous Delivery Reliable Software Releases through Build, Test, and Deployment Automation, Humble Jez, Farley David
 1. Domain-Driven Design: Tackling Complexity in the Heart of Software, Eric Evans 
 1. Never Get Angry Again, David J. Lieberman
+1. Perfect Imperfection: First third of progress, Jacek Dukaj
+1. Working Backwards: Insights, Stories, and Secrets from Inside Amazon, Bill Carr and Colin Bryar
 
 # 2021
 

@@ -47,3 +47,5 @@
 - avoid leaking implementation details at all costs
 
 1. AWS Well-Architected
+
+1. Model Driven Design is mutualy exclusive with Smart-UI

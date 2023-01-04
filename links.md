@@ -30,5 +30,9 @@
 1. Site scope ATG? Www.atg.com
 1. Www.csszengarden.com
 1. Roc.cs.barkley.edu - recovery oriented computing
-
-
+1. https://martinfowler.com/books/ 
+1. https://microsoft.github.io/code-with-engineering-playbook/continuous-integration/
+1. https://medium.com/@gasrios/decoupling-project-and-pipeline-specific-logic-blocks-on-a-ci-cd-pipeline-496b4e747786
+1. https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html
+1. Amazon's Builders Library https://aws.amazon.com/builders-library
+1. https://youtu.be/RfvL_423a-I?t=2605
