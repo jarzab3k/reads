@@ -2,3 +2,5 @@
 1. Microservices at Spotify, Kevin Goldsmith, https://www.youtube.com/watch?v=7LGPeBgNFuU
 1. What I Wish I Had Known Before Scaling Uber to 1000 Services, Matt Ranney, https://www.youtube.com/watch?v=kb-m2fasdDY
 1. re:Invent Key Note, Werner Vogels, https://youtu.be/RfvL_423a-I
+1. Focusing is about saying no, Steve Jobs, https://www.youtube.com/watch?v=H8eP99neOVs
+1. Agile Estimation, https://www.youtube.com/watch?v=jaqiXSp-D8E

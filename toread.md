@@ -24,7 +24,7 @@
 1. Humans vs Computers  Gojko Adzi ISBN-13: 978-0993088131
 1. Pragmatic Software Testing: Becoming an Effective and Efficient Test Professional Rex Black ISBN-13: 978-0470127902
 1. Growing Object-Oriented Software, Guided by Tests Freeman, Steve , Nat Pryce ISBN-13: 978-0321503626
-1.  Fifty Quick Ideas To Improve Your User Stories Gojko Adzic,  David Evans ISBN-13: 978-0993088100
+1. Fifty Quick Ideas To Improve Your User Stories Gojko Adzic,  David Evans ISBN-13: 978-0993088100
 1. The Practice of Programming Brian W. Kernighan, Rob Pike ISBN-13: 978-0201615869
 1. Documenting Software Architectures: Views and Beyond (2nd Edition) Paul Clements, Felix Bachmann, Len Bass, David Garlan, James Ivers, Reed Little, Paulo Merson, Robert Nord,   Judith Stafford ISBN-13: 978-0321552686
 1. Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems David J. Agans ISBN-13: 978-0814434451
@@ -37,7 +37,6 @@
 1. Computer Networks (English) 5th Edition Andrew S. Tanenbaum, David J. Wetherall ISBN-13: 978-0132126953
 1. Soft Skills für IT-Führungskräfte und Projektleiter: Softwareentwickler führen und coachen, Hochleistungsteams aufbauen (German) Uwe Vigenschow, Björn Schneider, Ines Meyrose ISBN-13: 978-3864903953
 1. Seven More Languages in Seven Weeks: Languages That Are Shaping the Future Bruce Tate, Ian Dee,s Frederic Daoud, Jack Moffitt ISBN-13: 978-1941222157
-1. Domain-Driven Design: Tackling Complexity in the Heart of Software Eric Evans ISBN-13: 978-0321125217
 1. Software Estimation: Demystifying the Black Art (Developer Best Practices) Steve McConnell ISBN-13: 978-0735605350
 1. Modern Operating Systems: Global Edition Andrew S. Tanenbaum, Herbert Bos ISBN-13: 978-1292061429
 1. Agile Retrospectives: Making Good Teams Great Esther Derby, Diana Larsen ISBN-13: 978-0977616640
@@ -64,12 +63,10 @@
 1. User Story Mapping / User Story Applied Jeff Patton
 1. https://www.amazon.de/Turn-Ship-Around-Building-Breaking/dp/1591846404
 1. https://www.amazon.de/Object-Oriented-Software-Construction-Prentice-engl/dp/0136291554/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1K6P1KBPPOFMA&dchild=1&keywords=bertrand+meyer+object-oriented&qid=1612167802&sprefix=bertrand+meyer+%2Caps%2C331&sr=8-2 
-1. https://docs.microsoft.com/en-us/azure/architecture/patterns/
 1. Time to Think: Listening to Ignite the Human Mind 
 1. David Allen's "Getting Things Done"
 1. Nir Eyal, Julie Li Indistractable How to Control Your Attention and Choose Your Life\
 1. Empowered - https://www.amazon.in/Empowered-Ordinary-Extraordinary-Products-Silicon/dp/111969129X
-1. Working Backwards - https://www.amazon.com/Working-Backwards-Colin-Bryar-Bill/dp/1529033837
 1. Personal Kanban: Mapping Work | Navigating Life by Jim Benson and Tonianne DeMaria Barry. 
 1. David J. Anderson’s book Kanban: Successful Evolutionary Change for Your Technology Business
 1. The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps and Visible Ops Security: Achieving Common Security and IT Operations Objectives in 4 Practical Steps
@@ -80,3 +77,13 @@
 1. When Will It Be Done?: Lean-Agile Forecasting to Answer Your Customers' Most Important Question, Daniel S. Vacanti, https://www.goodreads.com/book/show/40681093-when-will-it-be-done
 1. The Coming Storm, Michael Lewis, https://www.goodreads.com/en/book/show/41016100-the-coming-storm
 1. No Rules Rules: Netflix and the Culture of Reinvention, Erin Meyer, https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860
+1. Ignition: A Guide to Building High-Performing Teams, https://www.amazon.com/Ignition-Guide-Building-High-Performing-Teams-ebook
+1. Im Vertrauen gesagt: Gedanken eines Managers, Karlheinz Binder
+1. The Art of War, Sun Tzu
+1. Motivaction, Klaus Kobjoll, https://www.amazon.co.uk/Motivaction-Klaus-Kobjoll/dp/3280021928
+1. Deal!: Du gibst mir, was ich will, Jack Nasher, https://www.amazon.co.uk/Deal-gibst-mir-was-will/dp/3593398214
+1. Der Weg des Meisters: Wie man große Visionen verwirklicht, Christian Bischoff, https://www.amazon.de/Weg-Meisters-gro%C3%9Fe-Visionen-verwirklicht/dp/3862430847
+1. Wusel-Management: wie Sie Selbstsabotage vermeiden und den inneren Kritiker für sich gewinnen, Claudia Hupprich, https://books.google.co.uk/books/about/Wuselmanagement.html?id=765CkwEACAAJ
+1. Khrushchev's Third Shoe: Inspiration for Business Negotiations, H.-Georg Macioszek, https://www.amazon.com/Khrushchevs-Third-Shoe-Inspiration-Negotiations-ebook/dp/B00W1SYWO4
+1. https://www.youtube.com/watch?v=hhlxFtV_tZo
+1. https://www.youtube.com/watch?v=eMrmAn3bYiI

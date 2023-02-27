@@ -1,3 +1,13 @@
+# 2023
+
+1. Refactoring Databases Evolutionary Database Design, Scott W. Ambler, Pramod J. Sadalage
+1. Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, Brendan Burns
+1. Humble Pi: A Comedy of Maths Errors, Matt Parker
+1. Getting to Yes: Negotiating Agreement Without Giving In, Roger Fisher, William Ury, Bruce Patton
+1. Metro 2033, 	Dmitry Glukhovsky
+1. The Rocket Model: Practical Advice for Building High Performing Teams, Robert Hogan, Gordon Curphy
+1. Oscar and the Lady in Pink, Éric-Emmanuel Schmitt
+
 # 2022
 
 1. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, Martin Kleppmann
