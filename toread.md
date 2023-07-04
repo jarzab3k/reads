@@ -1,4 +1,5 @@
 1. https://www.oreilly.com/library/view/design-it/9781680502923/ Design it!, M.Keeling
+1. https://www.amazon.de/Turn-Ship-Around-Building-Breaking/dp/1591846404
 1. https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds The Wisdom of Crowds, James Surowiecki
 1. https://www.amazon.com/Concurrent-Programming-Java%C2%99-Principles-Pattern/dp/0201310090 Concurrent Programming in Java: Design Principles and Pattern, Doug Lea
 1. https://en.wikipedia.org/wiki/The_Mythical_Man-Month The Mythical Man-Month, Fred Brooks.
@@ -61,7 +62,6 @@
 1. The Goal - M. Goldratt
 1. The Logic of Life (book)
 1. User Story Mapping / User Story Applied Jeff Patton
-1. https://www.amazon.de/Turn-Ship-Around-Building-Breaking/dp/1591846404
 1. https://www.amazon.de/Object-Oriented-Software-Construction-Prentice-engl/dp/0136291554/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1K6P1KBPPOFMA&dchild=1&keywords=bertrand+meyer+object-oriented&qid=1612167802&sprefix=bertrand+meyer+%2Caps%2C331&sr=8-2 
 1. Time to Think: Listening to Ignite the Human Mind 
 1. David Allen's "Getting Things Done"
@@ -85,5 +85,9 @@
 1. Der Weg des Meisters: Wie man große Visionen verwirklicht, Christian Bischoff, https://www.amazon.de/Weg-Meisters-gro%C3%9Fe-Visionen-verwirklicht/dp/3862430847
 1. Wusel-Management: wie Sie Selbstsabotage vermeiden und den inneren Kritiker für sich gewinnen, Claudia Hupprich, https://books.google.co.uk/books/about/Wuselmanagement.html?id=765CkwEACAAJ
 1. Khrushchev's Third Shoe: Inspiration for Business Negotiations, H.-Georg Macioszek, https://www.amazon.com/Khrushchevs-Third-Shoe-Inspiration-Negotiations-ebook/dp/B00W1SYWO4
-1. https://www.youtube.com/watch?v=hhlxFtV_tZo
 1. https://www.youtube.com/watch?v=eMrmAn3bYiI
+1. Lean Enterprise: How High Performance Organizations Innovate at Scale, Jez Humble
+1. Practical DataOps: Delivering Agile Data Science At Scale
+1. Building Microservices: Designing Fine-Grained Systems, Sam Newman
+1. Service Design Patterns, Robert Daigneau, Ian Robinson
+1. https://www.amazon.co.uk/API-Design-Patterns-JJ-Geewax/dp/161729585X

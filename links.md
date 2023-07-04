@@ -36,3 +36,7 @@
 1. https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html
 1. Amazon's Builders Library https://aws.amazon.com/builders-library
 1. Cloud Design Patterns https://docs.microsoft.com/en-us/azure/architecture/patterns/
+1. Microservices Guide, https://martinfowler.com/microservices/
+1. DevOps from Google, https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development
+1. Test & Commit || Revert, https://www.infoq.com/articles/test-commit-revert
+1. Trunk Base Development, https://medium.com/gitconnected/how-to-teach-trunk-based-development-dacce0cddfcb

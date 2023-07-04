@@ -13,3 +13,7 @@ Title, Author, Link
 1. Maker's Schedule, Manager's Schedule, Paul Graham, http://www.paulgraham.com/makersschedule.html
 1. Continuous Delivery Sounds Great, but Will It Work Here?, Jez Humble, https://dl.acm.org/doi/pdf/10.1145/3173553
 1. Day 1, Jeff Bezos, https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders
+1. Developer Effectiveness, Tim Cochran, https://martinfowler.com/articles/developer-effectiveness.html
+1. Microservices, James Lewis, Martin Fowler, https://martinfowler.com/articles/microservices.html
+1. https://www.linkedin.com/posts/hanslak_ecodesign-waste-circulareconomy-activity-7066002563552137216-Ywni
+1. https://www.linkedin.com/posts/nikoheikkila_i-dont-often-write-these-kind-of-who-to-follow-activity-7070789100584267776-w0tp

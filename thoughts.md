@@ -49,3 +49,13 @@
 1. AWS Well-Architected
 
 1. Model Driven Design is mutualy exclusive with Smart-UI
+
+1. https://www.hyrumslaw.com/ :
+    With a sufficient number of users of an API,
+    it does not matter what you promise in the contract:
+    all observable behaviors of your system
+    will be depended on by somebody.
+
+1. Shared understanding of the thing that we are building
+
+1. Feature Branching is a poor person's modular architecture
