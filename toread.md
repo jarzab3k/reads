@@ -87,7 +87,7 @@
 1. Khrushchev's Third Shoe: Inspiration for Business Negotiations, H.-Georg Macioszek, https://www.amazon.com/Khrushchevs-Third-Shoe-Inspiration-Negotiations-ebook/dp/B00W1SYWO4
 1. https://www.youtube.com/watch?v=eMrmAn3bYiI
 1. Lean Enterprise: How High Performance Organizations Innovate at Scale, Jez Humble
-1. Practical DataOps: Delivering Agile Data Science At Scale
+1. Practical DataOps: Delivering Agile Data Science At Scale - not necessary
 1. Building Microservices: Designing Fine-Grained Systems, Sam Newman
 1. Service Design Patterns, Robert Daigneau, Ian Robinson
 1. https://www.amazon.co.uk/API-Design-Patterns-JJ-Geewax/dp/161729585X
