@@ -7,3 +7,4 @@
 1. Enterprise Architecture = Architecting the Enterprise?, Gregor Hohpe, https://www.youtube.com/watch?v=hhlxFtV_tZo
 1. Why Scaling Agile Doesn't WOrk, Jez Humble, https://www.youtube.com/watch?v=2zYxWEZ0gYg
 1. Turn the Ship Around, L. David Marquet, https://www.youtube.com/watch?v=IzJL8zX3EVk
+1. Scaling Agile @ Spotify, Henrik Kniberg, https://www.youtube.com/watch?v=jyZEikKWhAU
