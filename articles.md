@@ -17,3 +17,10 @@ Title, Author, Link
 1. Microservices, James Lewis, Martin Fowler, https://martinfowler.com/articles/microservices.html
 1. https://www.linkedin.com/posts/hanslak_ecodesign-waste-circulareconomy-activity-7066002563552137216-Ywni
 1. https://www.linkedin.com/posts/nikoheikkila_i-dont-often-write-these-kind-of-who-to-follow-activity-7070789100584267776-w0tp
+1. https://github.blog/2023-08-02-how-we-build-containerized-services-at-github-using-github/
+1. About CI/CD, https://www.linkedin.com/posts/andrealaforgia_continuousdelivery-agile-agilesoftwaredevelopment-activity-7093203131571810304-ce3D?utm_source=share&utm_medium=member_desktop
+1. Mark Richards Developer to Architect, https://www.developertoarchitect.com/
+1. Golden Master technique, Javier Lopez, https://levelup.gitconnected.com/trunk-based-development-and-legacy-code-golden-master-315dd8f1821a
+1. ConwayLaw, Martin Fowler, https://martinfowler.com/bliki/ConwaysLaw.html
+1. TDD Hard to Use, Javier Lopez, https://javi-kata.medium.com/why-tdd-is-hard-to-use-bfa1b7f432d3
+1. Expand and contract, Javier Lopez, https://levelup.gitconnected.com/expand-and-contract-9854d49d1ee
