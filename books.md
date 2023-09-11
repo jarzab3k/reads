@@ -8,7 +8,8 @@
 1. The Rocket Model: Practical Advice for Building High Performing Teams, Robert Hogan, Gordon Curphy
 1. Oscar and the Lady in Pink, Éric-Emmanuel Schmitt
 1. Design It!: From Programmer to Software Architect, Michael Keeling
-1. Fundamentals of Software Architecture: An Engineering Approach. A Comprehensive Guide to Patterns, Characteristics, and Best Practices,  Neal Ford, Mark Richards
+1. Fundamentals of Software Architecture: An Engineering Approach. A Comprehensive Guide to Patterns, Characteristics, and Best Practices, Neal Ford, Mark Richards
+1. Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures, Neal Ford, Mark Richards
 
 # 2022
 

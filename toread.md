@@ -1,5 +1,5 @@
-1. https://www.amazon.de/Software-Architecture-Tradeoff-Distributed-Architectures/dp/1492086894
 1. https://www.amazon.de/-/en/Erin-Meyer/dp/1610392760 - Erin Meyer Culture Map
+1. Practical Object-Oriented Design, An Agile Primer Using Ruby (POODR)
 1. https://www.amazon.de/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986
 1. https://www.meltdownbook.net/meltdown
 1. https://www.amazon.de/Escaping-Build-Trap-Effective-Management/dp/149197379X
