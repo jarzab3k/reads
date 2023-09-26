@@ -59,3 +59,8 @@
 1. Shared understanding of the thing that we are building
 
 1. Feature Branching is a poor person's modular architecture
+
+1. Quality Cannot Be Delegated
+
+"Quality is determined by the top management. It can not be delegated. Moreover, an essential ingredient that I call profound knowledge is missing. There is no substitute for knowledge. Hard work, best efforts, and best intentions will not by themselves produce quality nor a market. Transformation of management is required — learning and application of profound knowledge."
+― W. Edwards Deming, The New Economics for Industry, Government, Education

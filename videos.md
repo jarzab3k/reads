@@ -8,3 +8,4 @@
 1. Why Scaling Agile Doesn't WOrk, Jez Humble, https://www.youtube.com/watch?v=2zYxWEZ0gYg
 1. Turn the Ship Around, L. David Marquet, https://www.youtube.com/watch?v=IzJL8zX3EVk
 1. Scaling Agile @ Spotify, Henrik Kniberg, https://www.youtube.com/watch?v=jyZEikKWhAU
+1. Smashing the State Machine the True Potential of Web Race Conditions, James Kettle, https://www.youtube.com/watch?v=tKJzsaB1ZvI&list=PLoX0sUafNGbEkK0ai5P_DB2HDnljRAJyZ&index=2

@@ -41,3 +41,4 @@
 1. Test & Commit || Revert, https://www.infoq.com/articles/test-commit-revert
 1. Trunk Base Development, https://medium.com/gitconnected/how-to-teach-trunk-based-development-dacce0cddfcb
 1. Elliot Wave, https://www.investopedia.com/terms/e/elliottwavetheory.asp
+1. Google, https://abseil.io/resources/swe-book/html/toc.html

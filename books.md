@@ -10,6 +10,7 @@
 1. Design It!: From Programmer to Software Architect, Michael Keeling
 1. Fundamentals of Software Architecture: An Engineering Approach. A Comprehensive Guide to Patterns, Characteristics, and Best Practices, Neal Ford, Mark Richards
 1. Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures, Neal Ford, Mark Richards
+1. The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures, Erin Meyer
 
 # 2022
 

@@ -24,3 +24,4 @@ Title, Author, Link
 1. ConwayLaw, Martin Fowler, https://martinfowler.com/bliki/ConwaysLaw.html
 1. TDD Hard to Use, Javier Lopez, https://javi-kata.medium.com/why-tdd-is-hard-to-use-bfa1b7f432d3
 1. Expand and contract, Javier Lopez, https://levelup.gitconnected.com/expand-and-contract-9854d49d1ee
+1. One Developer One Task, Javier Lopez, https://blog.devgenius.io/one-developer-one-task-b9bd52af925c
