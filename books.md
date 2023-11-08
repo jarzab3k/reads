@@ -12,6 +12,7 @@
 1. Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures, Neal Ford, Mark Richards
 1. The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures, Erin Meyer
 1. In Praise of Slow, Carl Honore
+1. Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers, Geoffrey A. Moore 
 
 # 2022
 

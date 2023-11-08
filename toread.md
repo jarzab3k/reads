@@ -1,5 +1,5 @@
 1. Practical Object-Oriented Design, An Agile Primer Using Ruby (POODR)
-1. https://www.amazon.de/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986
+1. Tidy first, https://www.oreilly.com/library/view/tidy-first/9781098151232/
 1. https://www.meltdownbook.net/meltdown
 1. https://www.amazon.de/Escaping-Build-Trap-Effective-Management/dp/149197379X
 1. https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/
