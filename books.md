@@ -1,3 +1,9 @@
+# 2024
+
+1. The Witcher: Season of Storms, Andrzej Sapkowski
+1. Thinking, Fast and Slow, Daniel Kahneman
+1. The Witcher: Sword of Destiny, Andrzej Sapkowski
+
 # 2023
 
 1. Refactoring Databases Evolutionary Database Design, Scott W. Ambler, Pramod J. Sadalage

@@ -2,7 +2,6 @@
 1. Tidy first, https://www.oreilly.com/library/view/tidy-first/9781098151232/
 1. https://www.meltdownbook.net/meltdown
 1. https://www.amazon.de/Escaping-Build-Trap-Effective-Management/dp/149197379X
-1. https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/
 1. https://www.pnas.org/doi/10.1073/pnas.1612094113
 1. https://www.amazon.de/Nudge-Final-Richard-H-Thaler/dp/014313700X/ref=asc_df_014313700X/
 1. https://www.oreilly.com/library/view/design-it/9781680502923/ Design it!, M.Keeling
