@@ -3,6 +3,7 @@
 1. The Witcher: Season of Storms, Andrzej Sapkowski
 1. Thinking, Fast and Slow, Daniel Kahneman
 1. The Witcher: Sword of Destiny, Andrzej Sapkowski
+1. Escaping the Build Trap, Melisssa Perri
 
 # 2023
 
