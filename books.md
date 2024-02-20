@@ -4,6 +4,8 @@
 1. Thinking, Fast and Slow, Daniel Kahneman
 1. The Witcher: Sword of Destiny, Andrzej Sapkowski
 1. Escaping the Build Trap, Melisssa Perri
+1. The Witcher: Blood of Elves, Andrzej Sapkowski
+1. Meltdown: Why Our Systems Fail and What We Can Do About It, Chris Clearfield, András Tilcsik
 
 # 2023
 
