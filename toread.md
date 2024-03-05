@@ -1,10 +1,10 @@
 1. Practical Object-Oriented Design, An Agile Primer Using Ruby (POODR)
+1. https://www.amazon.de/Nudge-Final-Richard-H-Thaler/dp/014313700X/ref=asc_df_014313700X/
+1. https://www.amazon.de/Turn-Ship-Around-Building-Breaking/dp/1591846404
 1. https://teamtopologies.com/book
 1. Tidy first, https://www.oreilly.com/library/view/tidy-first/9781098151232/
+1. Modern Software Engineering: Doing What Works to Build Better Software Faster
 1. https://www.pnas.org/doi/10.1073/pnas.1612094113
-1. https://www.amazon.de/Nudge-Final-Richard-H-Thaler/dp/014313700X/ref=asc_df_014313700X/
-1. https://www.oreilly.com/library/view/design-it/9781680502923/ Design it!, M.Keeling
-1. https://www.amazon.de/Turn-Ship-Around-Building-Breaking/dp/1591846404
 1. https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds The Wisdom of Crowds, James Surowiecki
 1. https://www.amazon.com/Concurrent-Programming-Java%C2%99-Principles-Pattern/dp/0201310090 Concurrent Programming in Java: Design Principles and Pattern, Doug Lea
 1. https://en.wikipedia.org/wiki/The_Mythical_Man-Month The Mythical Man-Month, Fred Brooks.
@@ -78,7 +78,6 @@
 1. Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results by Shingo Prize winner Mike Rother.
 1. Patrick Lencioni’s methodology described in The Five Dysfunctions of a Team: A Leadership Fable
 1. Dr. Eliyahu Goldratt wrote his seminal book, The Goal: A Process of Ongoing Improvement 
-1. Modern Software Engineering: Doing What Works to Build Better Software Faster
 1. When Will It Be Done?: Lean-Agile Forecasting to Answer Your Customers' Most Important Question, Daniel S. Vacanti, https://www.goodreads.com/book/show/40681093-when-will-it-be-done
 1. The Coming Storm, Michael Lewis, https://www.goodreads.com/en/book/show/41016100-the-coming-storm
 1. No Rules Rules: Netflix and the Culture of Reinvention, Erin Meyer, https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860

@@ -6,6 +6,9 @@
 1. Escaping the Build Trap, Melisssa Perri
 1. The Witcher: Blood of Elves, Andrzej Sapkowski
 1. Meltdown: Why Our Systems Fail and What We Can Do About It, Chris Clearfield, András Tilcsik
+1. The Witcher: Time of Contempt, Andrzej Sapkowski
+1. Clean Agile: Back to Basics, Robert C. Martin
+1. The Witcher: Baptism of Fire, Andrzej Sapkowski
 
 # 2023
 
