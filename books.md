@@ -9,6 +9,8 @@
 1. The Witcher: Time of Contempt, Andrzej Sapkowski
 1. Clean Agile: Back to Basics, Robert C. Martin
 1. The Witcher: Baptism of Fire, Andrzej Sapkowski
+1. Nudge: Improving Decisions about Health, Wealth, and Happiness, Richard H. Thaler, Cass R. Sunstein
+1. The Witcher: The Tower of the Swallow, Andrzej Sapkowski
 
 # 2023
 
