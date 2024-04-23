@@ -1,4 +1,6 @@
 1. Practical Object-Oriented Design, An Agile Primer Using Ruby (POODR)
+1. https://www.amazon.co.uk/Structured-Design-Fundamentals-Discipline-Programme/dp/0138544719
+1. https://www.amazon.co.uk/Soprano-Her-Head-Right-side-up-Performances/dp/0911226214
 1. https://www.amazon.de/Nudge-Final-Richard-H-Thaler/dp/014313700X/ref=asc_df_014313700X/
 1. https://www.amazon.de/Turn-Ship-Around-Building-Breaking/dp/1591846404
 1. https://teamtopologies.com/book

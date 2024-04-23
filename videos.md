@@ -5,7 +5,9 @@
 1. Focusing is about saying no, Steve Jobs, https://www.youtube.com/watch?v=H8eP99neOVs
 1. Agile Estimation, https://www.youtube.com/watch?v=jaqiXSp-D8E
 1. Enterprise Architecture = Architecting the Enterprise?, Gregor Hohpe, https://www.youtube.com/watch?v=hhlxFtV_tZo
-1. Why Scaling Agile Doesn't WOrk, Jez Humble, https://www.youtube.com/watch?v=2zYxWEZ0gYg
+1. Why Scaling Agile Doesn't Work, Jez Humble, https://www.youtube.com/watch?v=2zYxWEZ0gYg
 1. Turn the Ship Around, L. David Marquet, https://www.youtube.com/watch?v=IzJL8zX3EVk
 1. Scaling Agile @ Spotify, Henrik Kniberg, https://www.youtube.com/watch?v=jyZEikKWhAU
 1. Smashing the State Machine the True Potential of Web Race Conditions, James Kettle, https://www.youtube.com/watch?v=tKJzsaB1ZvI&list=PLoX0sUafNGbEkK0ai5P_DB2HDnljRAJyZ&index=2
+1. What Mob Programming is NOT, Austin Chadwick, https://www.youtube.com/watch?v=Z5x5nYXBpis
+1. Writing async/await from scratch in C# with Stephen Toub, https://www.youtube.com/watch?v=R-z2Hv-7nxk
