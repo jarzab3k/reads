@@ -3,7 +3,6 @@
 1. https://www.amazon.co.uk/Soprano-Her-Head-Right-side-up-Performances/dp/0911226214
 1. https://www.amazon.de/Turn-Ship-Around-Building-Breaking/dp/1591846404
 1. https://teamtopologies.com/book
-1. Tidy first, https://www.oreilly.com/library/view/tidy-first/9781098151232/
 1. Modern Software Engineering: Doing What Works to Build Better Software Faster
 1. https://www.pnas.org/doi/10.1073/pnas.1612094113
 1. https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds The Wisdom of Crowds, James Surowiecki
@@ -96,3 +95,4 @@
 1. Building Microservices: Designing Fine-Grained Systems, Sam Newman
 1. Service Design Patterns, Robert Daigneau, Ian Robinson
 1. https://www.amazon.co.uk/API-Design-Patterns-JJ-Geewax/dp/161729585X
+1. https://www.amazon.de/-/en/Frederick-Forsyth-ebook/dp/B00ZGOZPF0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
