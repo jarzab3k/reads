@@ -3,10 +3,11 @@
 1. https://www.amazon.co.uk/Soprano-Her-Head-Right-side-up-Performances/dp/0911226214
 1. https://www.amazon.de/Turn-Ship-Around-Building-Breaking/dp/1591846404
 1. https://teamtopologies.com/book
-1. Modern Software Engineering: Doing What Works to Build Better Software Faster
-1. https://www.pnas.org/doi/10.1073/pnas.1612094113
+1. https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms/dp/1594205582, Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies
+1. https://www.amazon.com/Complexity-Emerging-Science-Order-Chaos-ebook/dp/B07WVV5J2R, Complexity: The Emerging Science at the Edge of Order and Chaos
 1. https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds The Wisdom of Crowds, James Surowiecki
 1. https://www.amazon.com/Concurrent-Programming-Java%C2%99-Principles-Pattern/dp/0201310090 Concurrent Programming in Java: Design Principles and Pattern, Doug Lea
+1. Building Microservices: Designing Fine-Grained Systems, Sam Newman
 1. https://en.wikipedia.org/wiki/The_Mythical_Man-Month The Mythical Man-Month, Fred Brooks.
 1. https://www.amazon.com/Culture-Empire-Revolution-Pieter-Hintjens/dp/1492999776 Culture and Empire: Digital Revolution, Pieter Hintjens
 1. https://www.amazon.com/Principles-Transaction-Processing-Kaufmann-Management/dp/1558606238, Principles of Transaction Processing, Philip A. Bernstein, Eric Newcomer
@@ -92,7 +93,6 @@
 1. https://www.youtube.com/watch?v=eMrmAn3bYiI
 1. Lean Enterprise: How High Performance Organizations Innovate at Scale, Jez Humble
 1. Practical DataOps: Delivering Agile Data Science At Scale - not necessary
-1. Building Microservices: Designing Fine-Grained Systems, Sam Newman
 1. Service Design Patterns, Robert Daigneau, Ian Robinson
 1. https://www.amazon.co.uk/API-Design-Patterns-JJ-Geewax/dp/161729585X
 1. https://www.amazon.de/-/en/Frederick-Forsyth-ebook/dp/B00ZGOZPF0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=

@@ -11,3 +11,4 @@
 1. Smashing the State Machine the True Potential of Web Race Conditions, James Kettle, https://www.youtube.com/watch?v=tKJzsaB1ZvI&list=PLoX0sUafNGbEkK0ai5P_DB2HDnljRAJyZ&index=2
 1. What Mob Programming is NOT, Austin Chadwick, https://www.youtube.com/watch?v=Z5x5nYXBpis
 1. Writing async/await from scratch in C# with Stephen Toub, https://www.youtube.com/watch?v=R-z2Hv-7nxk
+1. Hibernate should be to programmers what cake mixes are to bakers: beneath their dignity., https://vimeo.com/28885655

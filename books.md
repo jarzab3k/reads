@@ -13,6 +13,7 @@
 1. The Witcher: The Tower of the Swallow, Andrzej Sapkowski
 1. Tidy First?, Kent Beck
 1. The Witcher: The Lady of the Lake, Andrzej Sapkowski
+1. Modern Software Engineering: Doing What Works to Build Better Software Faster, David Farley
 
 # 2023
 
