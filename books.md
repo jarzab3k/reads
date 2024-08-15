@@ -14,6 +14,7 @@
 1. Tidy First?, Kent Beck
 1. The Witcher: The Lady of the Lake, Andrzej Sapkowski
 1. Modern Software Engineering: Doing What Works to Build Better Software Faster, David Farley
+1. Maladie and other stories, Andrzej Sapkowski
 
 # 2023
 

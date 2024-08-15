@@ -12,3 +12,5 @@
 1. What Mob Programming is NOT, Austin Chadwick, https://www.youtube.com/watch?v=Z5x5nYXBpis
 1. Writing async/await from scratch in C# with Stephen Toub, https://www.youtube.com/watch?v=R-z2Hv-7nxk
 1. Hibernate should be to programmers what cake mixes are to bakers: beneath their dignity., https://vimeo.com/28885655
+1. James Lewis - Flow, microservices and scale, https://www.youtube.com/watch?v=gglS_n3fszY
+1. Gregore Hohpe, The Magic of Platforms, https://www.youtube.com/watch?v=WaL3ZbLgMuI&t=1s

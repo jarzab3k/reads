@@ -1,12 +1,16 @@
 1. Practical Object-Oriented Design, An Agile Primer Using Ruby (POODR)
+1. https://www.thoughtworks.com/insights/books/edge, EDGE: Value Driven Digital Transformation, Jim Highsmith, Linda Luu, and David Robinson
 1. https://www.amazon.co.uk/Structured-Design-Fundamentals-Discipline-Programme/dp/0138544719
 1. https://www.amazon.co.uk/Soprano-Her-Head-Right-side-up-Performances/dp/0911226214
 1. https://www.amazon.de/Turn-Ship-Around-Building-Breaking/dp/1591846404
 1. https://teamtopologies.com/book
-1. https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms/dp/1594205582, Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies
-1. https://www.amazon.com/Complexity-Emerging-Science-Order-Chaos-ebook/dp/B07WVV5J2R, Complexity: The Emerging Science at the Edge of Order and Chaos
+1. https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms/dp/1594205582, Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies https://www.amazon.com/Complexity-Emerging-Science-Order-Chaos-ebook/dp/
+1. https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/
+B07WVV5J2R, Complexity: The Emerging Science at the Edge of Order and Chaos
 1. https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds The Wisdom of Crowds, James Surowiecki
 1. https://www.amazon.com/Concurrent-Programming-Java%C2%99-Principles-Pattern/dp/0201310090 Concurrent Programming in Java: Design Principles and Pattern, Doug Lea
+1. https://martinfowler.com/books/r2p.html, Refactoring to Patterns, Joshua Kerievsky
+1. Growing Object-Oriented Software, Guided by Tests Freeman, Steve , Nat Pryce ISBN-13: 978-0321503626
 1. Building Microservices: Designing Fine-Grained Systems, Sam Newman
 1. https://en.wikipedia.org/wiki/The_Mythical_Man-Month The Mythical Man-Month, Fred Brooks.
 1. https://www.amazon.com/Culture-Empire-Revolution-Pieter-Hintjens/dp/1492999776 Culture and Empire: Digital Revolution, Pieter Hintjens
@@ -30,7 +34,6 @@
 1. Object Design: Roles, Responsibilities, and Collaborations Rebecca Wirfs-Brock, Alan McKean ISBN-13: 978-0201379433
 1. Humans vs Computers  Gojko Adzi ISBN-13: 978-0993088131
 1. Pragmatic Software Testing: Becoming an Effective and Efficient Test Professional Rex Black ISBN-13: 978-0470127902
-1. Growing Object-Oriented Software, Guided by Tests Freeman, Steve , Nat Pryce ISBN-13: 978-0321503626
 1. Fifty Quick Ideas To Improve Your User Stories Gojko Adzic,  David Evans ISBN-13: 978-0993088100
 1. The Practice of Programming Brian W. Kernighan, Rob Pike ISBN-13: 978-0201615869
 1. Documenting Software Architectures: Views and Beyond (2nd Edition) Paul Clements, Felix Bachmann, Len Bass, David Garlan, James Ivers, Reed Little, Paulo Merson, Robert Nord,   Judith Stafford ISBN-13: 978-0321552686

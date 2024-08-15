@@ -26,3 +26,4 @@ Title, Author, Link
 1. Expand and contract, Javier Lopez, https://levelup.gitconnected.com/expand-and-contract-9854d49d1ee
 1. One Developer One Task, Javier Lopez, https://blog.devgenius.io/one-developer-one-task-b9bd52af925c
 1. System crash as dynamics of complex networks, https://www.pnas.org/doi/10.1073/pnas.1612094113
+1. Agile Rehab: Replacing Process Dogma with Engineering to Achieve True Agility, Bryan Finster, https://www.infoq.com/articles/replace-process-dogma-engineering/
