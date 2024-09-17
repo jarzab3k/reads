@@ -27,3 +27,5 @@ Title, Author, Link
 1. One Developer One Task, Javier Lopez, https://blog.devgenius.io/one-developer-one-task-b9bd52af925c
 1. System crash as dynamics of complex networks, https://www.pnas.org/doi/10.1073/pnas.1612094113
 1. Agile Rehab: Replacing Process Dogma with Engineering to Achieve True Agility, Bryan Finster, https://www.infoq.com/articles/replace-process-dogma-engineering/
+1. The Effects of Generative AI on High Skilled Work: Evidence from Three Field Experiments with Software Developers, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566
+1. The Practices That Make Continuous Integration, Thierry de Pauw, https://thinkinglabs.io/articles/2022/06/14/the-practices-that-make-continuous-integration.html
