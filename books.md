@@ -15,6 +15,8 @@
 1. The Witcher: The Lady of the Lake, Andrzej Sapkowski
 1. Modern Software Engineering: Doing What Works to Build Better Software Faster, David Farley
 1. Maladie and other stories, Andrzej Sapkowski
+1. Turn the Ship Around!: A True Story of Turning Followers into Leaders, L. David Marquet
+1. Team Topologies: Organizing Business and Technology Teams for Fast Flow, Matthew Skelton, Manuel Pais
 
 # 2023
 
