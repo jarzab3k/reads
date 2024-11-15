@@ -44,3 +44,5 @@
 1. Google, https://abseil.io/resources/swe-book/html/toc.html
 1. https://www.linkedin.com/posts/ghohpe_insurenxt-transformation-disruption-activity-7214266713729642497-6V7G?utm_source=share&utm_medium=member_desktop
 1. https://www.reddit.com/r/RedditEng/comments/1ap4axo/from_fragile_to_agile_automating_the_fight/
+1. https://www.domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf
+1. https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf

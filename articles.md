@@ -29,3 +29,5 @@ Title, Author, Link
 1. Agile Rehab: Replacing Process Dogma with Engineering to Achieve True Agility, Bryan Finster, https://www.infoq.com/articles/replace-process-dogma-engineering/
 1. The Effects of Generative AI on High Skilled Work: Evidence from Three Field Experiments with Software Developers, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566
 1. The Practices That Make Continuous Integration, Thierry de Pauw, https://thinkinglabs.io/articles/2022/06/14/the-practices-that-make-continuous-integration.html
+1. Don’t try to model the real world, it doesn’t exist, Udi Dahan, https://udidahan.com/2012/03/05/dont-try-to-model-the-real-world-it-doesnt-exist/
+1. Clarified CQRS, Udi Dahan, https://udidahan.com/2009/12/09/clarified-cqrs/

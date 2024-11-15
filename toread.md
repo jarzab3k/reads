@@ -3,6 +3,10 @@
 1. The Software Engineer's Guidebook, Gergely Orosz, https://www.engguidebook.com/
 1. https://www.amazon.co.uk/Structured-Design-Fundamentals-Discipline-Programme/dp/0138544719
 1. https://www.amazon.co.uk/Soprano-Her-Head-Right-side-up-Performances/dp/0911226214
+1. Facilitating Software Architecture by Andrew Harmel-Law, https://facilitatingsoftwarearchitecture.com/
+1. The Software Architect Elevator: survival guide for Software Architects and Tech Leads in modern enterprises, Gregor Hohpe.
+2. Cloud Strategy: guides your cloud migration, Gregor Hohpe.
+3. Platform Strategy: helps to plan your journey in building in-house platforms that unite your development teams and base (cloud) platforms, Gregor Hohpe.
 1. Extreme Programming Explained: Embrace Change, Kent Beck, Cynthia Andres
 1. Balancing Coupling in Software Design: Universal Design Principles for Architecting Modular Software Systems, Vlad Khononov, https://www.oreilly.com/library/view/balancing-coupling-in/9780137353514/
 1. https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms/dp/1594205582, Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies https://www.amazon.com/Complexity-Emerging-Science-Order-Chaos-ebook/dp/
