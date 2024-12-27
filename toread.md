@@ -104,3 +104,5 @@ B07WVV5J2R, Complexity: The Emerging Science at the Edge of Order and Chaos
 1. Service Design Patterns, Robert Daigneau, Ian Robinson
 1. https://www.amazon.co.uk/API-Design-Patterns-JJ-Geewax/dp/161729585X
 1. https://www.amazon.de/-/en/Frederick-Forsyth-ebook/dp/B00ZGOZPF0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+1. Engineering in Plain Sight, by Grady Hillhouse, https://www.gatesnotes.com/Engineering-in-Plain-Sight?WT.mc_id=20241206120000_holiday-books-2024_BG-LI
+1. The Coming Wave, by Mustafa Suleyman, https://www.gatesnotes.com/The-Coming-Wave?WT.mc_id=20241206120000_holiday-books-2024_BG-LI
