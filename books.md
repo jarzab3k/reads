@@ -1,3 +1,9 @@
+# 2025
+
+1. Bridge for self-taught (org. Brydż dla samouków), Krzysztof Jassem
+1. Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture, V. Vernon, T. Jaskula
+1. The Witcher: Crossroads of Ravens, Andrzej Sapkowski
+
 # 2024
 
 1. The Witcher: Season of Storms, Andrzej Sapkowski
