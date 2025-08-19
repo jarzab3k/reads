@@ -3,6 +3,7 @@
 1. Bridge for self-taught (org. Brydż dla samouków), Krzysztof Jassem
 1. Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture, V. Vernon, T. Jaskula
 1. The Witcher: Crossroads of Ravens, Andrzej Sapkowski
+1. Growing Object-Oriented Software, Guided by Tests, Freeman Steve, Nat Pryce
 
 # 2024
 

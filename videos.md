@@ -14,3 +14,4 @@
 1. Hibernate should be to programmers what cake mixes are to bakers: beneath their dignity., https://vimeo.com/28885655
 1. James Lewis - Flow, microservices and scale, https://www.youtube.com/watch?v=gglS_n3fszY
 1. Gregore Hohpe, The Magic of Platforms, https://www.youtube.com/watch?v=WaL3ZbLgMuI&t=1s
+1. Introduction to Data-Centric AI, https://www.youtube.com/playlist?list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5
