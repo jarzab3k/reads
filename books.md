@@ -4,6 +4,10 @@
 1. Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture, V. Vernon, T. Jaskula
 1. The Witcher: Crossroads of Ravens, Andrzej Sapkowski
 1. Growing Object-Oriented Software, Guided by Tests, Freeman Steve, Nat Pryce
+1. Play bridge... better! (org. Gram w brydża lepiej), Jerzy Pomianowski, Marek Wójcicki
+1. The Witcher: Claws and Fangs presented by Andrzej Sapkowski
+1. Nonviolent Communication: A Language of Life, Marshall B. Rosenberg
+
 
 # 2024
 
