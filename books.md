@@ -7,6 +7,9 @@
 1. Play bridge... better! (org. Gram w brydża lepiej), Jerzy Pomianowski, Marek Wójcicki
 1. The Witcher: Claws and Fangs presented by Andrzej Sapkowski
 1. Nonviolent Communication: A Language of Life, Marshall B. Rosenberg
+1. The Unbearable Lightness of Being, Milan Kundera
+1. Polish Club in XXI Century (org. Wspólny Język w XXI wieku), Marek Wójcicki
+1. TDD Codemanship, Jason Gorman
 
 
 # 2024

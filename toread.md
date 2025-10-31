@@ -1,5 +1,8 @@
 1. Practical Object-Oriented Design, An Agile Primer Using Ruby (POODR)
 1. https://www.thoughtworks.com/insights/books/edge, EDGE: Value Driven Digital Transformation, Jim Highsmith, Linda Luu, and David Robinson
+1. xUnit Test Patterns: Refactoring Test Code Gerard Meszaros ISBN-13: 978-0131495050
+1. Residues: Time, Change, and Uncertainty in Software Architecture – Barry O’Reilly
+1. The Architect’s Paradox Uncertainty and the Philosophy of Software Architecture – Barry O’Reilly
 1. Presentation Patterns: Techniques for Crafting Better Presentations, Neal Ford, Matthew McCullough, Nathaniel Schutta
 1. The Software Engineer's Guidebook, Gergely Orosz, https://www.engguidebook.com/
 1. https://www.amazon.co.uk/Structured-Design-Fundamentals-Discipline-Programme/dp/0138544719
@@ -65,7 +68,6 @@ B07WVV5J2R, Complexity: The Emerging Science at the Edge of Order and Chaos
 1. Data Science at the Command Line: Facing the Future with Time-Tested Tools Jeroen Janssens ISBN-13: 978-1491947852
 1. Specification by Example  Gojko Adzic ISBN-13: 978-1617290084
 1. User Stories Applied: For Agile Software Development Mike Cohn ISBN-13: 978-0321205681
-1. xUnit Test Patterns: Refactoring Test Code Gerard Meszaros ISBN-13: 978-0131495050
 1. The Principles of Product Development Flow: Second Generation Lean Product Development Donald G. Reinertsen ISBN-13: 978-1935401001
 1. The Leprechauns of Software Engineering Laurent Bossavit ISBN-13: 978-2954745503
 1. Bridging the Communication Gap Gojko Adzic ISBN-13: 978-0955683619
