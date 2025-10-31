@@ -15,3 +15,5 @@
 1. James Lewis - Flow, microservices and scale, https://www.youtube.com/watch?v=gglS_n3fszY
 1. Gregore Hohpe, The Magic of Platforms, https://www.youtube.com/watch?v=WaL3ZbLgMuI&t=1s
 1. Introduction to Data-Centric AI, https://www.youtube.com/playlist?list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5
+1. Microservices, Where Did It All Go Wrong Ian Cooper GOTO 2024, https://www.youtube.com/watch?v=_ZvwRJnSsQ4
+1. Why SW Architecture is Mostly Communication David Whitney, Ian Cooper & Hannes Lowette  GOTO 2025, https://www.youtube.com/watch?v=VMmkHZ4wShA
