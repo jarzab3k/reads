@@ -17,3 +17,4 @@
 1. Introduction to Data-Centric AI, https://www.youtube.com/playlist?list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5
 1. Microservices, Where Did It All Go Wrong Ian Cooper GOTO 2024, https://www.youtube.com/watch?v=_ZvwRJnSsQ4
 1. Why SW Architecture is Mostly Communication David Whitney, Ian Cooper & Hannes Lowette  GOTO 2025, https://www.youtube.com/watch?v=VMmkHZ4wShA
+1. Beyond Operations: Scaling Platform Engineering in the CNCF Community, Abby Bangser, https://www.youtube.com/watch?v=gmAfYEPBYr0
