@@ -11,6 +11,7 @@
 1. Polish Club in XXI Century (org. Wspólny Język w XXI wieku), Marek Wójcicki
 1. TDD Codemanship, Jason Gorman
 1. What Great Parents Do, Erica Reischer
+1. School of opening lead (org. Szkola Wistu), Krzysztof Martens
 
 
 # 2024

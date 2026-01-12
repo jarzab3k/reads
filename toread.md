@@ -2,6 +2,7 @@
 1. https://www.thoughtworks.com/insights/books/edge, EDGE: Value Driven Digital Transformation, Jim Highsmith, Linda Luu, and David Robinson
 1. "Data Engineering Design Patterns: Recipes for Solving the Most Common Data Engineering Problems" by Bartosz Konieczny 
 1. Crafting Great APIs with Domain-Driven Design: Collaborative Craftsmanship of Asynchronous and Synchronous APIs, https://www.amazon.de/-/en/Crafting-Great-APIs-Domain-Driven-Design/dp/B0DYNMWP67/ref=sr_1_1?crid=1D1ENIV230C24&dib=eyJ2IjoiMSJ9.I-30x4blAFNRVy7XwU46Mol41L_uC27wGejpGBpkLsFcMSLYu_MRPcTDoEEfdOQFX9SDtdEQlcgqPDQON-Vfaz0CcIC0sgFXswgjD1a2eIBQCcfmFiMpVr_CinbLU4Fyxv4A6g6obpYBhHxsa3730WFuPUiNP8njCmJqdglOrls7xhlX6PYf7RLw6zUd7pGPd_yA5TqzgNkdYZpZakHWXKd96N9J9HAnwUfY_kBt3j4.Iro8sCaA2pKg0JVpmVbvPFpuB3wifnmlcF4SH85cNgY&dib_tag=se&keywords=crafting+great+apis&qid=1762778042&sprefix=crafting+great%2Caps%2C131&sr=8-1
+1. Architecture for Flow Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies, Susanne Kaiser
 1. xUnit Test Patterns: Refactoring Test Code Gerard Meszaros ISBN-13: 978-0131495050
 1. Residues: Time, Change, and Uncertainty in Software Architecture – Barry O’Reilly
 1. The Architect’s Paradox Uncertainty and the Philosophy of Software Architecture – Barry O’Reilly
